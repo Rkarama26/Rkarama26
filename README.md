@@ -1,6 +1,6 @@
   <h3 id="hi-there--im-danushka">Hi there 👋 I’m <a href="https://github.com/Rkarama26">Rohit!</a></h3>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
-<h2 id="im-a-software-engineer">I’m a FillStack Software Engineer</h2>
+<h2 id="im-a-software-engineer">I’m a FullStack Software Engineer</h2>
 <ul>
 <li>👨‍💻 I’m currently working on Safe_Commute/Transportation, Which makes public transport easy.</li>
 <li>📚 Learning everything about Frontend and Backend technologies 😅</li>
