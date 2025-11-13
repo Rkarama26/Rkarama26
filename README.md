@@ -30,7 +30,7 @@
 
 
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://github.com/Rkarama26" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<p><a target="_blank" href="https://www.linkedin.com/in/rohit026/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://stackoverflow.com/users/23980637/rv-live" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rkarama26&" alt="Rkarama26" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rkarama26&show_icons=true&locale=en&layout=compact" alt="Rkarama26" /></p>
