@@ -7,7 +7,7 @@ Full Stack Engineer | MERN Stack | Next.js | TypeScript | Web3.js
 </h3>
 
 <p align="left">
-Building scalable web applications and backend systems with modern technologies.
+Building scalable web applications with modern technologies.
 </p>
 
 ---
