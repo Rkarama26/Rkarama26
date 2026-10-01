@@ -7,7 +7,7 @@
 </h3>
 
 <p align="left">
-| MERN Stack | Next.js | TypeScript | Web3.js
+ Building Business Automations, and RAG
 </p>
 
 ---
@@ -16,7 +16,7 @@
 
 - 🔭 Currently building modern web applications and backend services.
 - 💼 1 Year of experience as Full Stack(FrontEnd) Engineer.
-- ⚡ Experienced with **React, Next.js, TypeScript, Nest.js,** Java, and Spring Boot.
+- ⚡  Experienced with **React, Next.js, TypeScript,** Java.
 - 🌱 Understands Web3 technologies with **Web3.js**, Ethers.js, and Ethereum.
 - 🎯 Making User Experience better by open source contribution.
 - 📍 India
