@@ -3,19 +3,19 @@
 <h1 align="left">Hi 👋, I'm Rohit Vishwakarma</h1>
 
 <h3 align="left">
-Full Stack Engineer | MERN Stack | Next.js | TypeScript | Web3.js
+ AI Engineer at Product Startup.
 </h3>
 
 <p align="left">
-Building scalable web applications with modern technologies.
+| MERN Stack | Next.js | TypeScript | Web3.js
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Full Stack(FrontEnd) Engineer at **Innobimb Infotech** with 1 year of experience.
 - 🔭 Currently building modern web applications and backend services.
+- 💼 1 Year of experience as Full Stack(FrontEnd) Engineer.
 - ⚡ Experienced with **React, Next.js, TypeScript, Nest.js,** Java, and Spring Boot.
 - 🌱 Understands Web3 technologies with **Web3.js**, Ethers.js, and Ethereum.
 - 🎯 Making User Experience better by open source contribution.
