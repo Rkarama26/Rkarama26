@@ -7,7 +7,7 @@
 </h3>
 
 <p align="left">
- Building Business Automations, and RAG
+ Building Business Automations, and RAG...
 </p>
 
 ---
